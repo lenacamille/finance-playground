@@ -1,0 +1,10 @@
+
+US Bureau of Labor Statistics (unemployment data)
+https://www.bls.gov/
+
+Federal Reserve Econ Data
+https://fred.stlouisfed.org/
+
+https://catalog.data.gov/organization/
+https://www.aeaweb.org/resources
+https://www.aeaweb.org/resources/data/us-macro-regional

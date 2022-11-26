@@ -1,0 +1,55 @@
+Metro,Gross Domestic Product ($ Millions),Gross Domestic Product per Capita ($ Dollars)
+Atlanta metro,397261,66767
+"Austin, TX metro",146785,67695
+Baltimore metro,205314,73253
+Birmingham metro,62881,54594
+Boston metro,463571,95084
+Buffalo metro,68990,61045
+Charlotte metro,169863,66115
+Chicago metro,689465,72585
+Cincinnati metro,141053,64402
+"Cleveland, OH metro",134370,65323
+"Columbus, OH metro",129328,61394
+Dallas metro,512510,67975
+Denver metro,214158,73031
+Detroit metro,267731,61882
+Hartford metro,99465,82455
+Houston metro,478779,68423
+Indianapolis metro,140762,68708
+"Jacksonville, FL metro",83187,54204
+Kansas City metro,132704,61906
+"Las Vegas, NV metro",122424,54858
+Los Angeles-Long Beach metro,1047661,78822
+Louisville metro,72094,55572
+Memphis metro,76749,56825
+"Miami, FL metro",354740,57227
+Milwaukee metro,103732,65815
+Minneapolis-St. Paul metro,263691,72658
+Nashville metro,132202,68464
+New Orleans metro,80287,63198
+New York metro,1772320,88707
+Oklahoma City metro,81017,58017
+Orlando metro,138948,54003
+Philadelphia metro,444148,72854
+Phoenix metro,255212,52535
+Pittsburgh metro,152841,65745
+"Portland, OR metro",164420,66330
+Providence metro,87415,53915
+Raleigh metro,83666,61404
+"Richmond, VA metro",85793,65683
+Riverside-San Bernardino metro,187109,40479
+Sacramento metro,145480,62033
+Salt Lake City metro,94307,77140
+San Antonio metro,133634,53071
+San Diego metro,245139,73321
+San Francisco metro,548613,115998
+San Jose metro,331020,165584
+Seattle metro,392037,99518
+St. Louis metro,169839,60539
+Tampa-St. Petersburg metro,159003,50595
+Virginia Beach-Norfolk metro,100976,58410
+"Washington, DC metro",540684,86510
+Source,U.S. Bureau of Economic Analysis,U.S. Bureau of Economic Analysis and Census Bureau
+Date of Data,Date of Data: 2018,Date of Data: 2018
+Note,In millions of current dollars.,In current dollars.
+Quote,"""The GDP of the combined Washington-Baltimore metro exceeds that of Sweden and Thailand.""","""The Baltimore metro and Washington metro per capita GDP exceed the U.S. average."""
